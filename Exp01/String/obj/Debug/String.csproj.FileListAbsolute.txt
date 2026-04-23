@@ -1,0 +1,7 @@
+D:\DKTE\dot net\Experiments\Dot-Net\Lab1\String\bin\Debug\String.exe.config
+D:\DKTE\dot net\Experiments\Dot-Net\Lab1\String\bin\Debug\String.exe
+D:\DKTE\dot net\Experiments\Dot-Net\Lab1\String\bin\Debug\String.pdb
+D:\DKTE\dot net\Experiments\Dot-Net\Lab1\String\obj\Debug\String.csproj.AssemblyReference.cache
+D:\DKTE\dot net\Experiments\Dot-Net\Lab1\String\obj\Debug\String.csproj.CoreCompileInputs.cache
+D:\DKTE\dot net\Experiments\Dot-Net\Lab1\String\obj\Debug\String.exe
+D:\DKTE\dot net\Experiments\Dot-Net\Lab1\String\obj\Debug\String.pdb
