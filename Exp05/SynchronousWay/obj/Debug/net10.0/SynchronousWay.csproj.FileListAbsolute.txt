@@ -1,0 +1,15 @@
+D:\manthan\MyData\Desktop\DKTE\dotnet\Labwork\.NET\Experiment05\SynchronousWay\bin\Debug\net10.0\SynchronousWay.exe
+D:\manthan\MyData\Desktop\DKTE\dotnet\Labwork\.NET\Experiment05\SynchronousWay\bin\Debug\net10.0\SynchronousWay.deps.json
+D:\manthan\MyData\Desktop\DKTE\dotnet\Labwork\.NET\Experiment05\SynchronousWay\bin\Debug\net10.0\SynchronousWay.runtimeconfig.json
+D:\manthan\MyData\Desktop\DKTE\dotnet\Labwork\.NET\Experiment05\SynchronousWay\bin\Debug\net10.0\SynchronousWay.dll
+D:\manthan\MyData\Desktop\DKTE\dotnet\Labwork\.NET\Experiment05\SynchronousWay\bin\Debug\net10.0\SynchronousWay.pdb
+D:\manthan\MyData\Desktop\DKTE\dotnet\Labwork\.NET\Experiment05\SynchronousWay\obj\Debug\net10.0\SynchronousWay.GeneratedMSBuildEditorConfig.editorconfig
+D:\manthan\MyData\Desktop\DKTE\dotnet\Labwork\.NET\Experiment05\SynchronousWay\obj\Debug\net10.0\SynchronousWay.AssemblyInfoInputs.cache
+D:\manthan\MyData\Desktop\DKTE\dotnet\Labwork\.NET\Experiment05\SynchronousWay\obj\Debug\net10.0\SynchronousWay.AssemblyInfo.cs
+D:\manthan\MyData\Desktop\DKTE\dotnet\Labwork\.NET\Experiment05\SynchronousWay\obj\Debug\net10.0\SynchronousWay.csproj.CoreCompileInputs.cache
+D:\manthan\MyData\Desktop\DKTE\dotnet\Labwork\.NET\Experiment05\SynchronousWay\obj\Debug\net10.0\SynchronousWay.sourcelink.json
+D:\manthan\MyData\Desktop\DKTE\dotnet\Labwork\.NET\Experiment05\SynchronousWay\obj\Debug\net10.0\SynchronousWay.dll
+D:\manthan\MyData\Desktop\DKTE\dotnet\Labwork\.NET\Experiment05\SynchronousWay\obj\Debug\net10.0\refint\SynchronousWay.dll
+D:\manthan\MyData\Desktop\DKTE\dotnet\Labwork\.NET\Experiment05\SynchronousWay\obj\Debug\net10.0\SynchronousWay.pdb
+D:\manthan\MyData\Desktop\DKTE\dotnet\Labwork\.NET\Experiment05\SynchronousWay\obj\Debug\net10.0\SynchronousWay.genruntimeconfig.cache
+D:\manthan\MyData\Desktop\DKTE\dotnet\Labwork\.NET\Experiment05\SynchronousWay\obj\Debug\net10.0\ref\SynchronousWay.dll

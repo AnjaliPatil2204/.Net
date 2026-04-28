@@ -1,0 +1,15 @@
+D:\manthan\MyData\Desktop\DKTE\dotnet\Labwork\.NET\Experiment05\MethodReturning\bin\Debug\net10.0\MethodReturning.exe
+D:\manthan\MyData\Desktop\DKTE\dotnet\Labwork\.NET\Experiment05\MethodReturning\bin\Debug\net10.0\MethodReturning.deps.json
+D:\manthan\MyData\Desktop\DKTE\dotnet\Labwork\.NET\Experiment05\MethodReturning\bin\Debug\net10.0\MethodReturning.runtimeconfig.json
+D:\manthan\MyData\Desktop\DKTE\dotnet\Labwork\.NET\Experiment05\MethodReturning\bin\Debug\net10.0\MethodReturning.dll
+D:\manthan\MyData\Desktop\DKTE\dotnet\Labwork\.NET\Experiment05\MethodReturning\bin\Debug\net10.0\MethodReturning.pdb
+D:\manthan\MyData\Desktop\DKTE\dotnet\Labwork\.NET\Experiment05\MethodReturning\obj\Debug\net10.0\MethodReturning.GeneratedMSBuildEditorConfig.editorconfig
+D:\manthan\MyData\Desktop\DKTE\dotnet\Labwork\.NET\Experiment05\MethodReturning\obj\Debug\net10.0\MethodReturning.AssemblyInfoInputs.cache
+D:\manthan\MyData\Desktop\DKTE\dotnet\Labwork\.NET\Experiment05\MethodReturning\obj\Debug\net10.0\MethodReturning.AssemblyInfo.cs
+D:\manthan\MyData\Desktop\DKTE\dotnet\Labwork\.NET\Experiment05\MethodReturning\obj\Debug\net10.0\MethodReturning.csproj.CoreCompileInputs.cache
+D:\manthan\MyData\Desktop\DKTE\dotnet\Labwork\.NET\Experiment05\MethodReturning\obj\Debug\net10.0\MethodReturning.sourcelink.json
+D:\manthan\MyData\Desktop\DKTE\dotnet\Labwork\.NET\Experiment05\MethodReturning\obj\Debug\net10.0\MethodReturning.dll
+D:\manthan\MyData\Desktop\DKTE\dotnet\Labwork\.NET\Experiment05\MethodReturning\obj\Debug\net10.0\refint\MethodReturning.dll
+D:\manthan\MyData\Desktop\DKTE\dotnet\Labwork\.NET\Experiment05\MethodReturning\obj\Debug\net10.0\MethodReturning.pdb
+D:\manthan\MyData\Desktop\DKTE\dotnet\Labwork\.NET\Experiment05\MethodReturning\obj\Debug\net10.0\MethodReturning.genruntimeconfig.cache
+D:\manthan\MyData\Desktop\DKTE\dotnet\Labwork\.NET\Experiment05\MethodReturning\obj\Debug\net10.0\ref\MethodReturning.dll

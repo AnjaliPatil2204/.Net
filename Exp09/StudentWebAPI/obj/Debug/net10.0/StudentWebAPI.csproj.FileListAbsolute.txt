@@ -1,0 +1,74 @@
+C:\Users\Dell\Desktop\6th SEM\DotNet\Git-Repository\DotNet\Experiments\9\StudentWebAPI\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\Dell\Desktop\6th SEM\DotNet\Git-Repository\DotNet\Experiments\9\StudentWebAPI\bin\Debug\net10.0\appsettings.json
+C:\Users\Dell\Desktop\6th SEM\DotNet\Git-Repository\DotNet\Experiments\9\StudentWebAPI\bin\Debug\net10.0\StudentWebAPI.staticwebassets.endpoints.json
+C:\Users\Dell\Desktop\6th SEM\DotNet\Git-Repository\DotNet\Experiments\9\StudentWebAPI\bin\Debug\net10.0\StudentWebAPI.exe
+C:\Users\Dell\Desktop\6th SEM\DotNet\Git-Repository\DotNet\Experiments\9\StudentWebAPI\bin\Debug\net10.0\StudentWebAPI.deps.json
+C:\Users\Dell\Desktop\6th SEM\DotNet\Git-Repository\DotNet\Experiments\9\StudentWebAPI\bin\Debug\net10.0\StudentWebAPI.runtimeconfig.json
+C:\Users\Dell\Desktop\6th SEM\DotNet\Git-Repository\DotNet\Experiments\9\StudentWebAPI\bin\Debug\net10.0\StudentWebAPI.dll
+C:\Users\Dell\Desktop\6th SEM\DotNet\Git-Repository\DotNet\Experiments\9\StudentWebAPI\bin\Debug\net10.0\StudentWebAPI.pdb
+C:\Users\Dell\Desktop\6th SEM\DotNet\Git-Repository\DotNet\Experiments\9\StudentWebAPI\bin\Debug\net10.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Dell\Desktop\6th SEM\DotNet\Git-Repository\DotNet\Experiments\9\StudentWebAPI\bin\Debug\net10.0\Microsoft.OpenApi.dll
+C:\Users\Dell\Desktop\6th SEM\DotNet\Git-Repository\DotNet\Experiments\9\StudentWebAPI\bin\Debug\net10.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Dell\Desktop\6th SEM\DotNet\Git-Repository\DotNet\Experiments\9\StudentWebAPI\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Dell\Desktop\6th SEM\DotNet\Git-Repository\DotNet\Experiments\9\StudentWebAPI\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Dell\Desktop\6th SEM\DotNet\Git-Repository\DotNet\Experiments\9\StudentWebAPI\obj\Debug\net10.0\StudentWebAPI.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\6th SEM\DotNet\Git-Repository\DotNet\Experiments\9\StudentWebAPI\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\Dell\Desktop\6th SEM\DotNet\Git-Repository\DotNet\Experiments\9\StudentWebAPI\obj\Debug\net10.0\StudentWebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\6th SEM\DotNet\Git-Repository\DotNet\Experiments\9\StudentWebAPI\obj\Debug\net10.0\StudentWebAPI.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\6th SEM\DotNet\Git-Repository\DotNet\Experiments\9\StudentWebAPI\obj\Debug\net10.0\StudentWebAPI.AssemblyInfo.cs
+C:\Users\Dell\Desktop\6th SEM\DotNet\Git-Repository\DotNet\Experiments\9\StudentWebAPI\obj\Debug\net10.0\StudentWebAPI.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\6th SEM\DotNet\Git-Repository\DotNet\Experiments\9\StudentWebAPI\obj\Debug\net10.0\StudentWebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Dell\Desktop\6th SEM\DotNet\Git-Repository\DotNet\Experiments\9\StudentWebAPI\obj\Debug\net10.0\StudentWebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Dell\Desktop\6th SEM\DotNet\Git-Repository\DotNet\Experiments\9\StudentWebAPI\obj\Debug\net10.0\StudentWebAPI.sourcelink.json
+C:\Users\Dell\Desktop\6th SEM\DotNet\Git-Repository\DotNet\Experiments\9\StudentWebAPI\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\Dell\Desktop\6th SEM\DotNet\Git-Repository\DotNet\Experiments\9\StudentWebAPI\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\Dell\Desktop\6th SEM\DotNet\Git-Repository\DotNet\Experiments\9\StudentWebAPI\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\Dell\Desktop\6th SEM\DotNet\Git-Repository\DotNet\Experiments\9\StudentWebAPI\obj\Debug\net10.0\scopedcss\bundle\StudentWebAPI.styles.css
+C:\Users\Dell\Desktop\6th SEM\DotNet\Git-Repository\DotNet\Experiments\9\StudentWebAPI\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\Dell\Desktop\6th SEM\DotNet\Git-Repository\DotNet\Experiments\9\StudentWebAPI\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\Dell\Desktop\6th SEM\DotNet\Git-Repository\DotNet\Experiments\9\StudentWebAPI\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\Dell\Desktop\6th SEM\DotNet\Git-Repository\DotNet\Experiments\9\StudentWebAPI\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\Dell\Desktop\6th SEM\DotNet\Git-Repository\DotNet\Experiments\9\StudentWebAPI\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\Dell\Desktop\6th SEM\DotNet\Git-Repository\DotNet\Experiments\9\StudentWebAPI\obj\Debug\net10.0\StudentW.4818F5B7.Up2Date
+C:\Users\Dell\Desktop\6th SEM\DotNet\Git-Repository\DotNet\Experiments\9\StudentWebAPI\obj\Debug\net10.0\StudentWebAPI.dll
+C:\Users\Dell\Desktop\6th SEM\DotNet\Git-Repository\DotNet\Experiments\9\StudentWebAPI\obj\Debug\net10.0\refint\StudentWebAPI.dll
+C:\Users\Dell\Desktop\6th SEM\DotNet\Git-Repository\DotNet\Experiments\9\StudentWebAPI\obj\Debug\net10.0\StudentWebAPI.pdb
+C:\Users\Dell\Desktop\6th SEM\DotNet\Git-Repository\DotNet\Experiments\9\StudentWebAPI\obj\Debug\net10.0\StudentWebAPI.genruntimeconfig.cache
+C:\Users\Dell\Desktop\6th SEM\DotNet\Git-Repository\DotNet\Experiments\9\StudentWebAPI\obj\Debug\net10.0\ref\StudentWebAPI.dll
+D:\Dotnet\Experiment\9\StudentWebAPI\bin\Debug\net10.0\appsettings.Development.json
+D:\Dotnet\Experiment\9\StudentWebAPI\bin\Debug\net10.0\appsettings.json
+D:\Dotnet\Experiment\9\StudentWebAPI\bin\Debug\net10.0\StudentWebAPI.staticwebassets.endpoints.json
+D:\Dotnet\Experiment\9\StudentWebAPI\bin\Debug\net10.0\StudentWebAPI.exe
+D:\Dotnet\Experiment\9\StudentWebAPI\bin\Debug\net10.0\StudentWebAPI.deps.json
+D:\Dotnet\Experiment\9\StudentWebAPI\bin\Debug\net10.0\StudentWebAPI.runtimeconfig.json
+D:\Dotnet\Experiment\9\StudentWebAPI\bin\Debug\net10.0\StudentWebAPI.dll
+D:\Dotnet\Experiment\9\StudentWebAPI\bin\Debug\net10.0\StudentWebAPI.pdb
+D:\Dotnet\Experiment\9\StudentWebAPI\bin\Debug\net10.0\Microsoft.AspNetCore.OpenApi.dll
+D:\Dotnet\Experiment\9\StudentWebAPI\bin\Debug\net10.0\Microsoft.OpenApi.dll
+D:\Dotnet\Experiment\9\StudentWebAPI\bin\Debug\net10.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Dotnet\Experiment\9\StudentWebAPI\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Dotnet\Experiment\9\StudentWebAPI\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Dotnet\Experiment\9\StudentWebAPI\obj\Debug\net10.0\StudentWebAPI.csproj.AssemblyReference.cache
+D:\Dotnet\Experiment\9\StudentWebAPI\obj\Debug\net10.0\rpswa.dswa.cache.json
+D:\Dotnet\Experiment\9\StudentWebAPI\obj\Debug\net10.0\StudentWebAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dotnet\Experiment\9\StudentWebAPI\obj\Debug\net10.0\StudentWebAPI.AssemblyInfoInputs.cache
+D:\Dotnet\Experiment\9\StudentWebAPI\obj\Debug\net10.0\StudentWebAPI.AssemblyInfo.cs
+D:\Dotnet\Experiment\9\StudentWebAPI\obj\Debug\net10.0\StudentWebAPI.csproj.CoreCompileInputs.cache
+D:\Dotnet\Experiment\9\StudentWebAPI\obj\Debug\net10.0\StudentWebAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\Dotnet\Experiment\9\StudentWebAPI\obj\Debug\net10.0\StudentWebAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\Dotnet\Experiment\9\StudentWebAPI\obj\Debug\net10.0\StudentWebAPI.sourcelink.json
+D:\Dotnet\Experiment\9\StudentWebAPI\obj\Debug\net10.0\rjimswa.dswa.cache.json
+D:\Dotnet\Experiment\9\StudentWebAPI\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+D:\Dotnet\Experiment\9\StudentWebAPI\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+D:\Dotnet\Experiment\9\StudentWebAPI\obj\Debug\net10.0\scopedcss\bundle\StudentWebAPI.styles.css
+D:\Dotnet\Experiment\9\StudentWebAPI\obj\Debug\net10.0\staticwebassets.build.json
+D:\Dotnet\Experiment\9\StudentWebAPI\obj\Debug\net10.0\staticwebassets.build.json.cache
+D:\Dotnet\Experiment\9\StudentWebAPI\obj\Debug\net10.0\staticwebassets.development.json
+D:\Dotnet\Experiment\9\StudentWebAPI\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+D:\Dotnet\Experiment\9\StudentWebAPI\obj\Debug\net10.0\swae.build.ex.cache
+D:\Dotnet\Experiment\9\StudentWebAPI\obj\Debug\net10.0\StudentW.4818F5B7.Up2Date
+D:\Dotnet\Experiment\9\StudentWebAPI\obj\Debug\net10.0\StudentWebAPI.dll
+D:\Dotnet\Experiment\9\StudentWebAPI\obj\Debug\net10.0\refint\StudentWebAPI.dll
+D:\Dotnet\Experiment\9\StudentWebAPI\obj\Debug\net10.0\StudentWebAPI.pdb
+D:\Dotnet\Experiment\9\StudentWebAPI\obj\Debug\net10.0\StudentWebAPI.genruntimeconfig.cache
+D:\Dotnet\Experiment\9\StudentWebAPI\obj\Debug\net10.0\ref\StudentWebAPI.dll

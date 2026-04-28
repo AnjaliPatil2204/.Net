@@ -1,0 +1,29 @@
+communication between front end and backend 
+example : swiggy , instagram
+RESTAPI : uses HTTP methods and works with JSON 
+HTTP methods : 
+GET - get or read data (view studnet)
+POST - add new data ( add student)
+PUT - update existing dada (update student)
+DELETE - delete existing data (delete student)
+swagger used to test API without front end (postman)
+what is webAPI and restAPI with examples ?
+create project : dotnet new webapi -n projectname
+run on vscode terminal : dotnet add package swashbuckle.AspNetCore
+dotnet clean
+dotnet build
+dotnet run
+http//localhost:5042/api/studnet
+http//localhost:5042/swagger/index.html
+
+webAPI communication between UI and backend
+Controller : handler or brain 
+HTTIP methods : actions
+swagger : testing tool
+
+activity for api
+what is our endpoint ?
+which http methods we are using ?
+what response we give ?
+understand the flow of webAPI with swagger
+database : user table : student name : name by using dotnet http get method display on UI : 

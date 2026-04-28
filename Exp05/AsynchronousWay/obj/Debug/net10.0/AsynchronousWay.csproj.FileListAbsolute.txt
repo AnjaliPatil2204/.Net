@@ -1,0 +1,15 @@
+D:\manthan\MyData\Desktop\DKTE\dotnet\Labwork\.NET\Experiment05\AsynchronousWay\bin\Debug\net10.0\AsynchronousWay.exe
+D:\manthan\MyData\Desktop\DKTE\dotnet\Labwork\.NET\Experiment05\AsynchronousWay\bin\Debug\net10.0\AsynchronousWay.deps.json
+D:\manthan\MyData\Desktop\DKTE\dotnet\Labwork\.NET\Experiment05\AsynchronousWay\bin\Debug\net10.0\AsynchronousWay.runtimeconfig.json
+D:\manthan\MyData\Desktop\DKTE\dotnet\Labwork\.NET\Experiment05\AsynchronousWay\bin\Debug\net10.0\AsynchronousWay.dll
+D:\manthan\MyData\Desktop\DKTE\dotnet\Labwork\.NET\Experiment05\AsynchronousWay\bin\Debug\net10.0\AsynchronousWay.pdb
+D:\manthan\MyData\Desktop\DKTE\dotnet\Labwork\.NET\Experiment05\AsynchronousWay\obj\Debug\net10.0\AsynchronousWay.GeneratedMSBuildEditorConfig.editorconfig
+D:\manthan\MyData\Desktop\DKTE\dotnet\Labwork\.NET\Experiment05\AsynchronousWay\obj\Debug\net10.0\AsynchronousWay.AssemblyInfoInputs.cache
+D:\manthan\MyData\Desktop\DKTE\dotnet\Labwork\.NET\Experiment05\AsynchronousWay\obj\Debug\net10.0\AsynchronousWay.AssemblyInfo.cs
+D:\manthan\MyData\Desktop\DKTE\dotnet\Labwork\.NET\Experiment05\AsynchronousWay\obj\Debug\net10.0\AsynchronousWay.csproj.CoreCompileInputs.cache
+D:\manthan\MyData\Desktop\DKTE\dotnet\Labwork\.NET\Experiment05\AsynchronousWay\obj\Debug\net10.0\AsynchronousWay.sourcelink.json
+D:\manthan\MyData\Desktop\DKTE\dotnet\Labwork\.NET\Experiment05\AsynchronousWay\obj\Debug\net10.0\AsynchronousWay.dll
+D:\manthan\MyData\Desktop\DKTE\dotnet\Labwork\.NET\Experiment05\AsynchronousWay\obj\Debug\net10.0\refint\AsynchronousWay.dll
+D:\manthan\MyData\Desktop\DKTE\dotnet\Labwork\.NET\Experiment05\AsynchronousWay\obj\Debug\net10.0\AsynchronousWay.pdb
+D:\manthan\MyData\Desktop\DKTE\dotnet\Labwork\.NET\Experiment05\AsynchronousWay\obj\Debug\net10.0\AsynchronousWay.genruntimeconfig.cache
+D:\manthan\MyData\Desktop\DKTE\dotnet\Labwork\.NET\Experiment05\AsynchronousWay\obj\Debug\net10.0\ref\AsynchronousWay.dll

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "lhMWd/09abE=",
+  "dgSpecHash": "59McIua0+Sg=",
   "success": true,
   "projectFilePath": "D:\\Dotnet\\Experiment\\Exp08\\studentCRUDApp\\studentCRUDApp.csproj",
   "expectedPackageFiles": [
@@ -62,64 +62,13 @@
   ],
   "logs": [
     {
-      "code": "NU1902",
+      "code": "NU1900",
       "level": "Warning",
-      "message": "Package 'Azure.Identity' 1.10.3 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-m5vv-6r4h-3vj9",
+      "message": "Error occurred while getting package vulnerability data: Unable to load the service index for source https://api.nuget.org/v3/index.json.",
       "projectPath": "D:\\Dotnet\\Experiment\\Exp08\\studentCRUDApp\\studentCRUDApp.csproj",
       "warningLevel": 1,
       "filePath": "D:\\Dotnet\\Experiment\\Exp08\\studentCRUDApp\\studentCRUDApp.csproj",
-      "libraryId": "Azure.Identity",
-      "targetGraphs": [
-        "net10.0"
-      ]
-    },
-    {
-      "code": "NU1902",
-      "level": "Warning",
-      "message": "Package 'Azure.Identity' 1.10.3 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-wvxc-855f-jvrv",
-      "projectPath": "D:\\Dotnet\\Experiment\\Exp08\\studentCRUDApp\\studentCRUDApp.csproj",
-      "warningLevel": 1,
-      "filePath": "D:\\Dotnet\\Experiment\\Exp08\\studentCRUDApp\\studentCRUDApp.csproj",
-      "libraryId": "Azure.Identity",
-      "targetGraphs": [
-        "net10.0"
-      ]
-    },
-    {
-      "code": "NU1903",
-      "level": "Warning",
-      "message": "Package 'Microsoft.Extensions.Caching.Memory' 8.0.0 has a known high severity vulnerability, https://github.com/advisories/GHSA-qj66-m88j-hmgj",
-      "projectPath": "D:\\Dotnet\\Experiment\\Exp08\\studentCRUDApp\\studentCRUDApp.csproj",
-      "warningLevel": 1,
-      "filePath": "D:\\Dotnet\\Experiment\\Exp08\\studentCRUDApp\\studentCRUDApp.csproj",
-      "libraryId": "Microsoft.Extensions.Caching.Memory",
-      "targetGraphs": [
-        "net10.0"
-      ]
-    },
-    {
-      "code": "NU1902",
-      "level": "Warning",
-      "message": "Package 'Microsoft.Identity.Client' 4.56.0 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-m5vv-6r4h-3vj9",
-      "projectPath": "D:\\Dotnet\\Experiment\\Exp08\\studentCRUDApp\\studentCRUDApp.csproj",
-      "warningLevel": 1,
-      "filePath": "D:\\Dotnet\\Experiment\\Exp08\\studentCRUDApp\\studentCRUDApp.csproj",
-      "libraryId": "Microsoft.Identity.Client",
-      "targetGraphs": [
-        "net10.0"
-      ]
-    },
-    {
-      "code": "NU1901",
-      "level": "Warning",
-      "message": "Package 'Microsoft.Identity.Client' 4.56.0 has a known low severity vulnerability, https://github.com/advisories/GHSA-x674-v45j-fwxw",
-      "projectPath": "D:\\Dotnet\\Experiment\\Exp08\\studentCRUDApp\\studentCRUDApp.csproj",
-      "warningLevel": 1,
-      "filePath": "D:\\Dotnet\\Experiment\\Exp08\\studentCRUDApp\\studentCRUDApp.csproj",
-      "libraryId": "Microsoft.Identity.Client",
-      "targetGraphs": [
-        "net10.0"
-      ]
+      "targetGraphs": []
     }
   ]
 }
